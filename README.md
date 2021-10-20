@@ -12,6 +12,7 @@ You can support me and [buy me a coffee or cookie][3], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mocking window object with Jest](https://marek-rozmus.medium.com/mocking-window-object-d316050ae7a5?source=friends_link&sk=9d8ddce0b5bc37cdab0c721cbf617c6e)
 - [GDPR compliant cookie consent?](https://medium.com/sandstreamdev/gdpr-compliant-cookie-consent-f6655fa1b5af?source=friends_link&sk=4a08ea5b558786cbced22fb31c834a51)
 - [Does it work in Safari browser?](https://medium.com/sandstreamdev/does-it-work-in-safari-browser-4cf178583c1e?sk=de549a0acd03e32cada4453fb65668b7)
 - [Reversed arrow keys in PowerPoint?](https://medium.com/sandstreamdev/reversed-arrow-keys-in-powerpoint-2576a5859f46?sk=3f949ad9efe5b57cedb5af4ee76c8428)
