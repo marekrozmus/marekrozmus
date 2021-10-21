@@ -5,9 +5,6 @@
 - LinkedIn: [linkedin.com/in/marek-r-4186912][1]
 - Blog: [marek-rozmus.medium.com][2]
 
-## 🤜🏻🤛🏻 Support Me
-
-You can support me and [buy me a coffee or cookie][3], if you want. 🙏🏻
 
 ## 📕 Latest Blog Posts
 
@@ -18,6 +15,10 @@ You can support me and [buy me a coffee or cookie][3], if you want. 🙏🏻
 - [Reversed arrow keys in PowerPoint?](https://medium.com/sandstreamdev/reversed-arrow-keys-in-powerpoint-2576a5859f46?sk=3f949ad9efe5b57cedb5af4ee76c8428)
 - [Simple website, “simple setup” — lessons learned (part 1)](https://medium.com/sandstreamdev/simple-website-simple-setup-lessons-learned-part-1-1942d9e3c960?sk=ea79b6fbfdcf93f3aa18c1bf0ebe8707)
 <!-- BLOG-POST-LIST:END -->
+
+## 🤜🏻🤛🏻 Support Me
+
+You can support me and [buy me a coffee or cookie][3], if you want.
 
 ## &#x1f4c8; My GitHub Stats
 
