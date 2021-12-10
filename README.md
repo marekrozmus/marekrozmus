@@ -18,7 +18,7 @@
 
 ## 🤜🏻🤛🏻 Support Me
 
-You can support me and [buy me a coffee or cookie][3], if you want.
+You can support me and [buy me a coffee or cookie][3] :)
 
 ## &#x1f4c8; My GitHub Stats
 
