@@ -9,6 +9,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing react select with react testing library](https://marek-rozmus.medium.com/testing-react-select-with-react-testing-library-3f7cebf2672c?source=friends_link&sk=e0c25c60aa0b758a3c480ee947c6dd1b)
 - [Mocking window object with Jest](https://marek-rozmus.medium.com/mocking-window-object-d316050ae7a5?source=friends_link&sk=9d8ddce0b5bc37cdab0c721cbf617c6e)
 - [GDPR compliant cookie consent?](https://medium.com/sandstreamdev/gdpr-compliant-cookie-consent-f6655fa1b5af?source=friends_link&sk=4a08ea5b558786cbced22fb31c834a51)
 - [Does it work in Safari browser?](https://medium.com/sandstreamdev/does-it-work-in-safari-browser-4cf178583c1e?sk=de549a0acd03e32cada4453fb65668b7)
