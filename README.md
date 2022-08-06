@@ -9,6 +9,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mocking setTimeout with Jest](https://marek-rozmus.medium.com/3fd6b8fa6307?source=friends_link&sk=509eb0ab710dc5a6a8aaa7777b8ad614)
 - [Jest mock and spy — mockClear vs mockReset vs mockRestore](https://marek-rozmus.medium.com/jest-mock-and-spy-mockclear-vs-mockreset-vs-mockrestore-f52395581950?source=friends_link&sk=0958f2572071d35d8b3061491040f3ed)
 - [React and dual/multi color SVG icon](https://marek-rozmus.medium.com/55cb38bc8afe?source=friends_link&sk=b9eeb32ed03cb26034a507ecd607ddd0)
 - [Testing react select with react testing library](https://marek-rozmus.medium.com/testing-react-select-with-react-testing-library-3f7cebf2672c?source=friends_link&sk=e0c25c60aa0b758a3c480ee947c6dd1b)
