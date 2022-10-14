@@ -4,6 +4,7 @@
 
 - LinkedIn: [linkedin.com/in/marek-r-4186912][1]
 - Blog: [marek-rozmus.medium.com][2]
+- StackOverflow: [stackoverflow.com/users/6738911/marek-rozmus][4]
 
 
 ## 📕 Latest Blog Posts
@@ -37,6 +38,7 @@ You can support me and [buy me a coffee or cookie][3] :)
 [1]: https://www.linkedin.com/in/marek-r-4186912/
 [2]: https://marek-rozmus.medium.com/
 [3]: https://www.buymeacoffee.com/froostrat
+[4]: https://stackoverflow.com/users/6738911/marek-rozmus
 
 <!--
 **marekrozmus/marekrozmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
