@@ -10,7 +10,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mocking local storage with Jest](https://marek-rozmus.medium.com/mocking-local-storage-with-jest-c4b35a45d62e)
+- [Mocking local storage with Jest](https://marek-rozmus.medium.com/mocking-local-storage-with-jest-c4b35a45d62e?source=friends_link&sk=29cb3520f9236d04c5a8095c8aaf0cc3)
 - [Mocking setTimeout with Jest](https://marek-rozmus.medium.com/mocking-settimeout-with-jest-3fd6b8fa6307?source=friends_link&sk=509eb0ab710dc5a6a8aaa7777b8ad614)
 - [Jest mock and spy — mockClear vs mockReset vs mockRestore](https://marek-rozmus.medium.com/jest-mock-and-spy-mockclear-vs-mockreset-vs-mockrestore-f52395581950?source=friends_link&sk=0958f2572071d35d8b3061491040f3ed)
 - [React and dual/multi color SVG icon](https://marek-rozmus.medium.com/react-and-dual-multi-color-svg-icon-55cb38bc8afe?source=friends_link&sk=b9eeb32ed03cb26034a507ecd607ddd0)
