@@ -10,6 +10,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Styling checkbox with Tailwind](https://marek-rozmus.medium.com/46a92c157e2d?source=friends_link&sk=117a6ed6dcfbcde40702f57841a2b1f5)
 - [Mocking local storage with Jest](https://marek-rozmus.medium.com/mocking-local-storage-with-jest-c4b35a45d62e?source=friends_link&sk=29cb3520f9236d04c5a8095c8aaf0cc3)
 - [Mocking setTimeout with Jest](https://marek-rozmus.medium.com/mocking-settimeout-with-jest-3fd6b8fa6307?source=friends_link&sk=509eb0ab710dc5a6a8aaa7777b8ad614)
 - [Jest mock and spy — mockClear vs mockReset vs mockRestore](https://marek-rozmus.medium.com/jest-mock-and-spy-mockclear-vs-mockreset-vs-mockrestore-f52395581950?source=friends_link&sk=0958f2572071d35d8b3061491040f3ed)
