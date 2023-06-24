@@ -10,6 +10,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NextJS and React hydration problem on production](https://marek-rozmus.medium.com/2004c6f166bd?source=friends_link&sk=1a497829855bc659c6a43ff026d0ff99)
 - [Styling checkbox with Tailwind](https://marek-rozmus.medium.com/46a92c157e2d?source=friends_link&sk=117a6ed6dcfbcde40702f57841a2b1f5)
 - [Mocking local storage with Jest](https://marek-rozmus.medium.com/mocking-local-storage-with-jest-c4b35a45d62e?source=friends_link&sk=29cb3520f9236d04c5a8095c8aaf0cc3)
 - [Mocking setTimeout with Jest](https://marek-rozmus.medium.com/mocking-settimeout-with-jest-3fd6b8fa6307?source=friends_link&sk=509eb0ab710dc5a6a8aaa7777b8ad614)
