@@ -10,6 +10,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Styling Storyblok Richtext with Tailwind](https://marek-rozmus.medium.com/styling-storyblok-richtext-with-tailwind-89fa7ab38ec5)
 - [Styling radio button with Tailwind](https://marek-rozmus.medium.com/styling-radio-button-with-tailwind-6e16d6c0d68d?source=friends_link&sk=88489a3610d7c176eb4ca90161c46f0a)
 - [Responsive background image with CSS and React](https://marek-rozmus.medium.com/responsive-background-with-css-and-react-81a633ecb058?source=friends_link&sk=571836c3a4f08e0deed4cdac5f1ac956)
 - [Mocking fs and glob modules with Jest](https://marek-rozmus.medium.com/mocking-fs-and-glob-modules-with-jest-6930adec5d30?source=friends_link&sk=4b01c371e1d979bd4429f9af7053e480)
