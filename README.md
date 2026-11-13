@@ -4,7 +4,6 @@
 
 - LinkedIn: [linkedin.com/in/marek-r-4186912][1]
 - Blog: [marek-rozmus.medium.com][2]
-- StackOverflow: [stackoverflow.com/users/6738911/marek-rozmus][4]
 
 
 ## 📕 Latest Blog Posts
